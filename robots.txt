@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://serenitypressurewashing.com/sitemap.xml
